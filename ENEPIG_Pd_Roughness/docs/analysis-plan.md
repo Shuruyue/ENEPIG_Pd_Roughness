@@ -1,16 +1,16 @@
-# Pd Layer Roughness Analysis Plan (ENEPIG)
+## Pd Layer Roughness Analysis Plan (ENEPIG)
 
 This document outlines the sequential experiments and their intended purposes to determine the dominant factors influencing surface roughness of Pd layers in ENEPIG finishes.
 
 ---
 
-## Core Research Question
+### Core Research Question
 
 **Why does the surface roughness of Pd increase with layer thickness?**
 
 ---
 
-## Analysis Sequence and Purpose
+### Analysis Sequence and Purpose
 
 | Step | Analysis Target             | Objective                                  | Method/Tool           | Expected Outcome                         |
 |------|-----------------------------|--------------------------------------------|------------------------|------------------------------------------|
@@ -25,7 +25,7 @@ This document outlines the sequential experiments and their intended purposes to
 
 ---
 
-## Supporting Questions to Answer
+### Supporting Questions to Answer
 
 - Is the roughness purely geometric or related to crystalline stress?
 - Is there a critical thickness where roughening accelerates?
@@ -33,7 +33,7 @@ This document outlines the sequential experiments and their intended purposes to
 
 ---
 
-## Outputs to Prepare
+### Outputs to Prepare
 
 - AFM roughness plots
 - SEM annotated sections

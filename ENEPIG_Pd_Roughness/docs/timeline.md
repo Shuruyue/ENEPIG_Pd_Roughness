@@ -1,10 +1,10 @@
-# Timeline: Pd Roughness Mechanism Analysis 
+## Timeline: Pd Roughness Mechanism Analysis 
 
 This file outlines the weekly schedule for experimental analysis, corresponding to the investigation of surface roughening in Pd layers within ENEPIG systems.
 
 ---
 
-## Timeline Overview
+### Timeline Overview
 
 | Week | Date Range      | Task Description                                     | Expected Output                        | Status     |
 |------|------------------|------------------------------------------------------|----------------------------------------|------------|
@@ -20,7 +20,7 @@ This file outlines the weekly schedule for experimental analysis, corresponding 
 
 ---
 
-## Notes
+### Notes
 
 - EBSD samples require FIB polishing (coordinate availability)
 - Linked via matching sample ID system

@@ -1,10 +1,10 @@
-# Methods and Instrumentation
+## Methods and Instrumentation
 
 This document summarizes the instruments used to characterize Pd film growth in the ENEPIG surface finish. It explains their principles, key parameters, and practical roles in this project.
 
 ---
 
-## 1. Scanning Electron Microscopy (SEM)
+### 1. Scanning Electron Microscopy (SEM)
 
 **Purpose**  
 To observe the cross-sectional morphology of the Pd/Ni(P) interface, examine how roughness evolves with different **thicknesses**, and detect possible **contamination or defects** at the interface.
@@ -24,7 +24,7 @@ SEM uses a focused electron beam to scan the sample surface. The interaction gen
 
 ---
 
-## 2. Atomic Force Microscopy (AFM)
+### 2. Atomic Force Microscopy (AFM)
 
 **Purpose**  
 To **quantify** the surface roughness of Pd films using **Ra, Rq, and **Rz values** with nanometer-level resolution.
@@ -44,7 +44,7 @@ AFM employs a cantilever with a sharp tip that scans over the surface. The tip d
 
 ---
 
-## 3. X-ray Diffraction (XRD)
+### 3. X-ray Diffraction (XRD)
 
 **Purpose**  
 To study crystallinity, **internal stress**, and **potential phase changes** in the Pd layer.
@@ -64,7 +64,7 @@ X-rays diffract from atomic planes according to Bragg’s law. The position, int
 
 ---
 
-## 4. Electron Backscatter Diffraction (EBSD)
+### 4. Electron Backscatter Diffraction (EBSD)
 
 **Purpose**  
 To analyze grain size, **grain orientation**, and crystallographic texture in the Pd layer.
